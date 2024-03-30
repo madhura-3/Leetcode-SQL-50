@@ -10,6 +10,7 @@ Finally, we calculate the moving average by dividing the moving sum of amounts b
 
 # Complexity
 Time complexity: O(n^2) due to the self-join operation and grouping.
+
 Space complexity: O(n) for storing the total amounts for each day in the DaySum CTE.
 
 # Code
@@ -28,7 +29,7 @@ Space complexity: O(n) for storing the total amounts for each day in the DaySum 
 	group by a.visited_on
 	having count(*) > 6
 	order by a.visited_on;
-
+```
 
 # My Solution
-I have posted my solution on LeetCode. You can find it (here)[https://leetcode.com/problems/restaurant-growth/solutions/4948874/simple-solution].
+I have posted my solution on LeetCode. You can find it [here](https://leetcode.com/problems/restaurant-growth/solutions/4948874/simple-solution).
