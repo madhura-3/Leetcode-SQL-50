@@ -1,6 +1,4 @@
 # Leetcode-SQL-50
- 
-# LeetCode Top SQL 50 Solutions
 
 Welcome to the repository for solutions to LeetCode problems from the Top SQL 50 study plan. In this repository, you'll find my solutions to various SQL problems, focusing specifically on tasks included in the Top SQL 50 study plan.
 
