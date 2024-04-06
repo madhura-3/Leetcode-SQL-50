@@ -24,4 +24,4 @@ order by bonus;
 
 You can find my solution posted on Leetcode [here]()
 
-![image width = 100](https://github.com/madhura-3/Leetcode-SQL-50/assets/42023529/40a3acd4-8940-44b6-a4ad-d6f1e9b8a218)
+<img src = "https://github.com/madhura-3/Leetcode-SQL-50/assets/42023529/40a3acd4-8940-44b6-a4ad-d6f1e9b8a218">
