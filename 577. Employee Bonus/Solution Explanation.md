@@ -22,6 +22,6 @@ order by bonus;
 ```
 # My Solution
 
-You can find my solution posted on Leetcode [here]()
+You can find my solution posted on Leetcode [here](https://leetcode.com/problems/employee-bonus/solutions/4984699/simple-solution)
 
-<img src = "https://github.com/madhura-3/Leetcode-SQL-50/assets/42023529/40a3acd4-8940-44b6-a4ad-d6f1e9b8a218">
+<img src = "https://github.com/madhura-3/Leetcode-SQL-50/assets/42023529/40a3acd4-8940-44b6-a4ad-d6f1e9b8a218" width="500">
